@@ -6,15 +6,22 @@
 
 A premium offline media player crafted with Kotlin, Jetpack Compose, Material 3 and AndroidX Media3.
 
-<p>"Android" (https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-"Kotlin" (https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-"Compose" (https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge)
-"Material3" (https://img.shields.io/badge/Material-3-6750A4?style=for-the-badge)
-"Media3" (https://img.shields.io/badge/AndroidX-Media3-34A853?style=for-the-badge)
-"API" (https://img.shields.io/badge/API-26+-brightgreen?style=for-the-badge)
+<p align="center">
 
-</p><p>⚡ Lightning Fast • 🎵 Rich Audio • 🎬 Smooth Video • 🎨 Material You • 🔒 Privacy First
+![Android](https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge)
+![Material 3](https://img.shields.io/badge/Material-3-6750A4?style=for-the-badge)
+![Media3](https://img.shields.io/badge/AndroidX-Media3-34A853?style=for-the-badge)
+![API](https://img.shields.io/badge/API-26+-brightgreen?style=for-the-badge)
 
+</p>
+
+<p align="center">
+
+⚡ **Lightning Fast** • 🎵 **Rich Audio** • 🎬 **Smooth Video** • 🎨 **Material You** • 🔒 **Privacy First**
+
+</p>
 </p>---
 
 ⭐ Star the repository if you enjoy MediaVault!
