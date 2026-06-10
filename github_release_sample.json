@@ -1,18 +1,18 @@
 {
   "url": "https://api.github.com/repos/Playboy-gg/MediaVault/releases/latest",
   "html_url": "https://github.com/Playboy-gg/MediaVault/releases/latest",
-  "tag_name": "v2.1.0",
-  "name": "v2.1.0",
-  "body": "## What's New\n\n- Fixed tab navigation lag when jumping across multiple tabs\n- Added album art rotation animation on play/pause\n- Improved dark theme contrast for progress bars\n- Fixed ForegroundService crash on Android 14+\n- Swipe gestures now work on full album art area\n\n## Bug Fixes\n\n- Slider no longer fights with playback position updates\n- Share/Favorite buttons now have visible borders\n- Volume HUD replaced with inline bottom-bar display\n\n**Full Changelog**: https://github.com/Playboy-gg/MediaVault/compare/v2.0.0...v2.1.0",
+  "tag_name": "v2.2.0",
+  "name": "v2.2.0",
+  "body": "## What's New\n\n- New update screen with detailed release history\n- Improved changelog display in update dialog\n- Removed update section from Settings, added dedicated Check for Updates screen\n- Various bug fixes and performance improvements\n\n**Full Changelog**: https://github.com/Playboy-gg/MediaVault/compare/v2.1.0...v2.2.0",
   "prerelease": false,
   "created_at": "2026-06-09T12:00:00Z",
   "published_at": "2026-06-09T12:00:00Z",
   "assets": [
     {
-      "name": "MediaVault-v2.1.0.apk",
+      "name": "MediaVault-v2.2.0.apk",
       "content_type": "application/vnd.android.package-archive",
       "size": 12582912,
-      "browser_download_url": "https://github.com/Playboy-gg/MediaVault/releases/download/v2.1.0/MediaVault-v2.1.0.apk"
+      "browser_download_url": "https://github.com/Playboy-gg/MediaVault/releases/download/v2.1.0/MediaVault-v2.2.0.apk"
     }
   ]
 }
