@@ -5,7 +5,7 @@
   "message": "MediaVault development will be paused for a few days. Thank you for your patience!",
   "type": "info",
   "showOnce": true,
-  "minAppVersion": 1,
-  "maxAppVersion": 999999,
+  "minAppVersion": 2.0.0,
+  "maxAppVersion": 2.7.4,
   "dismissible": true
 }
