@@ -6,6 +6,6 @@
   "type": "info",
   "showOnce": true,
   "minAppVersion": "2.0.0",
-  "maxAppVersion": "2.7.3",
+  "maxAppVersion": "2.7.4",
   "dismissible": true
 }
