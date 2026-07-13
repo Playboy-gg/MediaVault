@@ -1,6 +1,6 @@
 🎵 MediaVault
 
-<div align="center"><img src="assets/banner.png" width="100%" alt="MediaVault Banner"/>MediaVault
+<div align="center"><img src="banner.png" width="100%" alt="MediaVault Banner"/>MediaVault
 
 ✨ Beautiful • Fast • Modern • Private
 
